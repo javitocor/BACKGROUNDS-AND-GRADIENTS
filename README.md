@@ -9,7 +9,7 @@
 - VSCode, Linters, Stylelint, Validator.w3
 
 # Live Demo
-[Live Demo Link](https://raw.githack.com/javitocor/BACKGROUNDS-AND-GRADIENTS/features/index.html)
+[Live Demo Link](https://javitocor.github.io/BACKGROUNDS-AND-GRADIENTS/)
 
 # Getting Started
 To get a local copy up and running follow these simple example steps.
