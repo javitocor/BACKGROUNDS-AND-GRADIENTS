@@ -1,5 +1,6 @@
 # BACKGROUNDS-AND-GRADIENTS
 
+![screenshot](/screenshot.png)
 
 # What it does
 - Clone Apple website using backgrounds and gradients
@@ -38,9 +39,9 @@ cd into the folder, find the index.html file and open it
 
 👤 Javier Oriol Correas Sanchez Cuesta
 
-- Github: [@githubhandle](https://github.com/javitocor)
-- Twitter: [@twitterhandle](https://twitter.com/JavierCorreas4)
-- Linkedin: [linkedin](https://www.linkedin.com/in/javier-correas-sanchez-cuesta-15289482/)
+- Github: [@javitocor](https://github.com/javitocor)
+- Twitter: [@JavierCorreas4](https://twitter.com/JavierCorreas4)
+- Linkedin: [Javier Oriol Correas Sanchez Cuesta](https://www.linkedin.com/in/javier-correas-sanchez-cuesta-15289482/)
 
 ## 🤝 Contributing
 Contributions, issues and feature requests are welcome!
